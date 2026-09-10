@@ -51,11 +51,10 @@ The Lheureux aesthetic is centered around:
 
 The visual identity of Lheureux is built around:
 
-- Black
-- Champagne Gold
 - White
+- Gold
 
-These colors reflect elegance, sophistication, and modern luxury.
+These colors reflect elegance, luxury, purity, and timeless sophistication.
 
 ---
 
